@@ -18,13 +18,12 @@
 
 # :dizzy: Conhecimento
 Conhecimento nas Techs/CMS citadas acima, entre outras:
-- :small_blue_diamond: PHP
-- :small_blue_diamond: MySQL
-- :small_blue_diamond: HTML5
-- :small_blue_diamond: CSS
-- :small_blue_diamond: LESS/SASS
-- :small_blue_diamond: JavaScript
-- :small_blue_diamond: E muito mais :star2:
+
+|                 Tech |      Tech |           Tech |                                           Tech |
+| -------------------: | --------: | -------------: | ---------------------------------------------: |
+|                `PHP` | `HTML5`   | `JavaScript`   | `Bootstrap`                                    |
+|              `MySQL` | `CSS`     | `LESS/SASS`    | E muito mais :star2:                           |
+
 
 # Template POINTEC do React Native?
 Você conhece? Da uma olhada no PROJETO, esta bastante legal, se puder deixe sua opinião.
