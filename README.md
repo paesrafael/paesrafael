@@ -14,7 +14,7 @@
 :small_blue_diamond: Atualmente usando bastante todo o seu ecosistema para o desenvolvimento mobile
 
 # :computer: CMS favorito
-- WordPress
+- [![WordPress](https://img.shields.io/badge/WordPress-0073AA?style=flat-square&logo=WordPress&link=https://github.com/paesrafael/)](https://github.com/paesrafael/)
 
 # :dizzy: Conhecimento
 Conhecimento nas Techs/CMS citadas acima, entre outras:
