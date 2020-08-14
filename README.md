@@ -6,14 +6,14 @@
 # :man: :woman: Fala DEV :coffee:
 :boy: Sou o Rafael, atualmente trabalho como Frontend :man_technologist: na [POINTEC](https://pointec.dev/).
 
-<img src="https://github-readme-stats.vercel.app/api?username=paesrafael&show_icons=true" />
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=paesrafael&show_icons=true" /></a>
 
 ## :rocket: Principais Techs favoritas
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)](https://github.com/paesrafael/)
 [![React Native](https://img.shields.io/badge/ReactNative-20232A?style=for-the-badge&logo=react)](https://github.com/paesrafael/)
 [![NodeJS](https://img.shields.io/badge/NodeJS-333333?style=for-the-badge&logo=Node.js)](https://github.com/paesrafael/)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paesrafael&layout=compact" />
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paesrafael&layout=compact" /></a>
 
 :small_blue_diamond: Atualmente usando bastante todo o seu ecosistema para o desenvolvimento mobile
 
@@ -44,7 +44,7 @@ Conhecimento nas Techs/CMS citadas acima, entre outras:
 Você conhece? Da uma olhada no PROJETO, esta bastante legal, se puder deixe sua opinião.
 [Template React Native](https://github.com/paesrafael/react-native-template-pointec-basic)
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=paesrafael&repo=react-native-template-pointec-basic" />
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=paesrafael&repo=react-native-template-pointec-basic" /></a>
 
 :white_check_mark: Já somos mais de [![NPM Download](https://img.shields.io/npm/dt/react-native-template-pointec-basic.svg)](https://www.npmjs.com/package/react-native-template-pointec-basic) e contando :chart: :up:
 [Veja no NPM](https://www.npmjs.com/package/react-native-template-pointec-basic)
