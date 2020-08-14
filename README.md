@@ -1,7 +1,7 @@
-[![Linkedin](https://img.shields.io/badge/Acesse%20meu-Linkedin-blue)](https://www.linkedin.com/in/rafael-paes/)
-[![Instagram](https://img.shields.io/badge/Acesse%20meu-Instagram-important)](https://www.instagram.com/pointecitsolutions/)
-[![Twitter](https://img.shields.io/badge/Acesse%20meu-Twitter-9cf)](https://twitter.com/paesrfael)
-[![Site](https://img.shields.io/badge/Acesse%20meu-Site-red)](https://pointec.dev)
+[![Linkedin](https://img.shields.io/badge/Acesse%20meu-Linkedin-0073b1?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/rafael-paes/)
+[![Instagram](https://img.shields.io/badge/Acesse%20meu-Instagram-C74C4D?style=for-the-badge&logo=Instagram&logoColor=FFFFFF)](https://www.instagram.com/pointecitsolutions/)
+[![Twitter](https://img.shields.io/badge/Acesse%20meu-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=FFFFFF)](https://twitter.com/paesrfael)
+[![Site](https://img.shields.io/badge/Acesse%20meu-Site-C11C32?style=for-the-badge&logo=Google%20Chrome&logoColor=FFFFFF)](https://pointec.dev)
 
 # :man: :woman: Fala DEV :coffee:
 :boy: Sou o Rafael, atualmente trabalho como Frontend na [POINTEC](https://pointec.dev/).
@@ -17,8 +17,11 @@
 
 :small_blue_diamond: Atualmente usando bastante todo o seu ecosistema para o desenvolvimento mobile
 
+## Atualmente usando as tecnologias
+
+
 # :computer: CMS favorito
-[![WordPress](https://img.shields.io/badge/WordPress-0073AA?style=flat-square&logo=WordPress&link=https://github.com/paesrafael/)](https://github.com/paesrafael/)
+[![WordPress](https://img.shields.io/badge/WordPress-0073AA?style=flat-square&logo=WordPress)](https://github.com/paesrafael/)
 
 # :dizzy: Conhecimento
 Conhecimento nas Techs/CMS citadas acima, entre outras:
