@@ -4,11 +4,11 @@
 [![Site](https://img.shields.io/badge/Acesse%20meu-Site-C11C32?style=for-the-badge&logo=Google%20Chrome&logoColor=FFFFFF)](https://pointec.dev)
 
 # :man: :woman: Fala DEV :coffee:
-:boy: Sou o Rafael, atualmente trabalho como Frontend na [POINTEC](https://pointec.dev/).
+:boy: Sou o Rafael, atualmente trabalho como Frontend :man_technologist: na [POINTEC](https://pointec.dev/).
 
 <img src="https://github-readme-stats.vercel.app/api?username=paesrafael&show_icons=true" />
 
-# :rocket: Principais Techs favoritas
+## :rocket: Principais Techs favoritas
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)](https://github.com/paesrafael/)
 [![React Native](https://img.shields.io/badge/ReactNative-20232A?style=for-the-badge&logo=react)](https://github.com/paesrafael/)
 [![NodeJS](https://img.shields.io/badge/NodeJS-333333?style=for-the-badge&logo=Node.js)](https://github.com/paesrafael/)
@@ -20,10 +20,10 @@
 ## Atualmente usando as tecnologias
 
 
-# :computer: CMS favorito
+## :computer: CMS favorito
 [![WordPress](https://img.shields.io/badge/WordPress-0073AA?style=flat-square&logo=WordPress)](https://github.com/paesrafael/)
 
-# :dizzy: Conhecimento
+## :dizzy: Conhecimento
 Conhecimento nas Techs/CMS citadas acima, entre outras:
 
 |                 Tech |      Tech |           Tech |                                           Tech |
@@ -32,7 +32,7 @@ Conhecimento nas Techs/CMS citadas acima, entre outras:
 |              `MySQL` | `CSS`     | `LESS/SASS`    | E muito mais :star2:                           |
 
 
-# Template POINTEC do React Native?
+## Template POINTEC do React Native?
 Você conhece? Da uma olhada no PROJETO, esta bastante legal, se puder deixe sua opinião.
 [Template React Native](https://github.com/paesrafael/react-native-template-pointec-basic)
 
