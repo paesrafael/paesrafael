@@ -9,9 +9,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=paesrafael&show_icons=true" />
 
 # :rocket: Principais Techs favoritas
-- ReactJS
-- React Native
-- Node.js
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)](https://github.com/paesrafael/)
+[![React Native](https://img.shields.io/badge/ReactNative-20232A?style=for-the-badge&logo=react)](https://github.com/paesrafael/)
+[![NodeJS](https://img.shields.io/badge/NodeJS-333333?style=for-the-badge&logo=Node.js)](https://github.com/paesrafael/)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paesrafael&layout=compact" />
 
