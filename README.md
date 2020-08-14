@@ -6,10 +6,14 @@
 # :man: :woman: Fala DEV :coffee:
 :boy: Sou o Rafael, atualmente trabalho como Frontend na [POINTEC](https://pointec.dev/).
 
+<img src="https://github-readme-stats.vercel.app/api?username=paesrafael&show_icons=true" />
+
 # :rocket: Principais Techs favoritas
 - ReactJS
 - React Native
 - Node.js
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paesrafael&layout=compact" />
 
 :small_blue_diamond: Atualmente usando bastante todo o seu ecosistema para o desenvolvimento mobile
 
@@ -28,6 +32,8 @@ Conhecimento nas Techs/CMS citadas acima, entre outras:
 # Template POINTEC do React Native?
 Você conhece? Da uma olhada no PROJETO, esta bastante legal, se puder deixe sua opinião.
 [Template React Native](https://github.com/paesrafael/react-native-template-pointec-basic)
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=paesrafael&repo=react-native-template-pointec-basic" />
 
 :white_check_mark: Já somos mais de [![NPM Download](https://img.shields.io/npm/dt/react-native-template-pointec-basic.svg)](https://www.npmjs.com/package/react-native-template-pointec-basic) e contando :chart: :up:
 [Veja no NPM](https://www.npmjs.com/package/react-native-template-pointec-basic)
