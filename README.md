@@ -44,7 +44,7 @@ Conhecimento nas Techs/CMS citadas acima, entre outras:
 Você conhece? Da uma olhada no PROJETO, esta bastante legal, se puder deixe sua opinião.
 [Template React Native](https://github.com/paesrafael/react-native-template-pointec-basic)
 
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=paesrafael&repo=react-native-template-pointec-basic" /></a>
+<a href="https://github.com/paesrafael/react-native-template-pointec-basic"><img src="https://github-readme-stats.vercel.app/api/pin/?username=paesrafael&repo=react-native-template-pointec-basic" /></a>
 
 :white_check_mark: Já somos mais de [![NPM Download](https://img.shields.io/npm/dt/react-native-template-pointec-basic.svg)](https://www.npmjs.com/package/react-native-template-pointec-basic) e contando :chart: :up:
 [Veja no NPM](https://www.npmjs.com/package/react-native-template-pointec-basic)
