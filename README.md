@@ -45,8 +45,8 @@ Conhecimento nas Techs/CMS citadas acima, entre outras:
 
 ## Template POINTEC do React Native
 Você conhece o Template do React Native da POINTEC?<br>
-Da uma olhada no PROJETO, esta muito legal.<br>
-Se puder deixe sua opinião. [Template React Native](https://github.com/paesrafael/react-native-template-pointec-basic)
+Da uma olhada no [PROJETO](https://github.com/paesrafael/react-native-template-pointec-basic), esta muito legal.<br>
+Se puder deixe sua opinião e/ou uma estrela no repositório.
 
 <a href="https://github.com/paesrafael/react-native-template-pointec-basic"><img src="https://github-readme-stats.vercel.app/api/pin/?username=paesrafael&repo=react-native-template-pointec-basic" /></a>
 
