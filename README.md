@@ -44,6 +44,13 @@ Conhecimento nas Techs/CMS citadas acima, entre outras:
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)](https://github.com/paesrafael/)
 [![Linux](https://img.shields.io/badge/Linux-333333?style=flat-square&logo=Linux)](https://github.com/paesrafael/)
 
+## Controle de versão e Comunidades
+[![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git)](https://github.com/paesrafael/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/paesrafael/)
+[![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket)](https://github.com/paesrafael/)
+[![Discord](https://img.shields.io/badge/Discord-000000?style=flat-square&logo=Discord)](https://github.com/paesrafael/)
+[![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack)](https://github.com/paesrafael/)
+
 <a href="#"><img width="150" height="150" src="https://assets.pointec.dev/image/octocat-github-paesrafael.gif" /></a>
 
 ## Template POINTEC do React Native
