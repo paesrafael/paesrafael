@@ -37,9 +37,12 @@ Conhecimento nas Techs/CMS citadas acima, entre outras:
 
 |                 Tech |      Tech |           Tech |                                           Tech |
 | -------------------: | --------: | -------------: | ---------------------------------------------: |
-|                [![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia)](https://github.com/paesrafael/) | [![SASS](https://img.shields.io/badge/-SASS-ed9ac2?style=flat-square&logo=sass)](https://github.com/paesrafael/)   | [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)](https://github.com/paesrafael/)   | [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952b3?style=flat-square&logo=bootstrap)](https://github.com/paesrafael/)                                    |
-|              [![MySQL](https://img.shields.io/badge/-MySQL-a0c4db?style=flat-square&logo=mysql)](https://github.com/paesrafael/) | E muito mais :star2:                           |
+|                [![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=flat-square&logo=Insomnia)](https://github.com/paesrafael/) | [![SASS](https://img.shields.io/badge/SASS-ed9ac2?style=flat-square&logo=sass)](https://github.com/paesrafael/)   | [![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb)](https://github.com/paesrafael/)   | [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952b3?style=flat-square&logo=bootstrap)](https://github.com/paesrafael/)                                    |
+|              [![MySQL](https://img.shields.io/badge/MySQL-a0c4db?style=flat-square&logo=mysql)](https://github.com/paesrafael/) | E muito mais :star2:                           |
 
+## Sistema operacional
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)](https://github.com/paesrafael/)
+[![Linux](https://img.shields.io/badge/Linux-333333?style=flat-square&logo=Linux)](https://github.com/paesrafael/)
 
 <a href="#"><img width="150" height="150" src="https://assets.pointec.dev/image/octocat-github-paesrafael.gif" /></a>
 
