@@ -37,8 +37,8 @@ Conhecimento nas Techs/CMS citadas acima, entre outras:
 
 |                 Tech |      Tech |           Tech |                                           Tech |
 | -------------------: | --------: | -------------: | ---------------------------------------------: |
-|                `PHP` | `HTML5`   | `JavaScript`   | `Bootstrap`                                    |
-|              `MySQL` | `CSS`     | `LESS/SASS`    | E muito mais :star2:                           |
+|                [![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia)](https://github.com/paesrafael/) | [![SASS](https://img.shields.io/badge/-SASS-ed9ac2?style=flat-square&logo=sass)](https://github.com/paesrafael/)   | [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)](https://github.com/paesrafael/)   | [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952b3?style=flat-square&logo=bootstrap)](https://github.com/paesrafael/)                                    |
+|              [![MySQL](https://img.shields.io/badge/-MySQL-a0c4db?style=flat-square&logo=mysql)](https://github.com/paesrafael/) | E muito mais :star2:                           |
 
 
 <a href="#"><img width="150" height="150" src="https://assets.pointec.dev/image/octocat-github-paesrafael.gif" /></a>
