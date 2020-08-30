@@ -4,7 +4,7 @@
 [![Site](https://img.shields.io/badge/Acesse%20meu-Site-C11C32?style=for-the-badge&logo=Google%20Chrome&logoColor=FFFFFF)](https://pointec.dev)
 
 # :man: :woman: Fala DEV :coffee:
-:boy: Sou o Rafael, atualmente trabalho como Frontend :man_technologist: na [POINTEC](https://pointec.dev/).
+:boy: Sou o Rafael :octocat:, atualmente trabalho como Frontend :man_technologist: na [POINTEC](https://pointec.dev/).
 
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=paesrafael&show_icons=true" /></a>
 
