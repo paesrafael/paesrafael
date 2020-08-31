@@ -8,7 +8,7 @@
 
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=paesrafael&show_icons=true" /></a>
 
-## :rocket: Principais Techs favoritas
+## :rocket: Principais Techs
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)](https://github.com/paesrafael/)
 [![React Native](https://img.shields.io/badge/ReactNative-20232A?style=for-the-badge&logo=react)](https://github.com/paesrafael/)
 [![NodeJS](https://img.shields.io/badge/NodeJS-333333?style=for-the-badge&logo=Node.js)](https://github.com/paesrafael/)
@@ -29,7 +29,7 @@
 <a href="#"><img align="left" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
 <a href="#"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/less/less.png" /></a>
 
-## :computer: CMS favorito
+## :computer: Principal CMS
 [![WordPress](https://img.shields.io/badge/WordPress-0073AA?style=flat-square&logo=WordPress)](https://github.com/paesrafael/)
 
 ## :dizzy: Conhecimento
