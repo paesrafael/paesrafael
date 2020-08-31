@@ -15,7 +15,7 @@
 
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paesrafael&layout=compact" /></a>
 
-:small_blue_diamond: Atualmente usando bastante todo o seu ecosistema para o desenvolvimento mobile
+:small_blue_diamond: Atualmente usando bastante todo o seu ecossistema para o desenvolvimento mobile
 
 ## Linguagens e Tecnologias usadas diariamente
 <a href="#"><img align="left" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></a>
