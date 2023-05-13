@@ -14,7 +14,7 @@
 
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paesrafael&layout=compact" /></a>
 
-## Linguagens e Tecnologias usadas diariamente
+## Linguagens e Tecnologias
 <a href="#"><img align="left" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></a>
 <a href="#"><img align="left" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
 <a href="#"><img align="left" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></a>
