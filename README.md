@@ -63,3 +63,5 @@ Se puder deixe sua opinião e/ou uma estrela no repositório.
 
 :white_check_mark: Já somos mais de [![NPM Download](https://img.shields.io/npm/dt/react-native-template-pointec-basic.svg)](https://www.npmjs.com/package/react-native-template-pointec-basic) e contando :chart: :up:
 [Veja no NPM](https://www.npmjs.com/package/react-native-template-pointec-basic)
+
+<img width="251" height="257" src="https://github.githubassets.com/images/modules/site/home-campaign/astrocat.png" />
