@@ -6,8 +6,6 @@
 # :man: :woman: Fala DEV :coffee:
 :boy: Sou o Rafael :octocat:, atualmente trabalho como Frontend :man_technologist: na [POINTEC](https://pointec.dev/).
 
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=paesrafael&show_icons=true" /></a>
-
 ## :rocket: Principais Techs
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)](https://github.com/paesrafael/)
 [![React Native](https://img.shields.io/badge/ReactNative-20232A?style=for-the-badge&logo=react)](https://github.com/paesrafael/)
@@ -51,6 +49,8 @@ Conhecimento nas Techs/CMS citadas acima, entre outras:
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack)](https://github.com/paesrafael/)
 
 <a href="#"><img width="150" height="150" src="https://assets.pointec.dev/image/octocat-github-paesrafael.gif" /></a>
+
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=paesrafael&show_icons=true" /></a>
 
 ## Template POINTEC do React Native
 Você conhece o Template do React Native da POINTEC?<br>
