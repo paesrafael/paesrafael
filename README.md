@@ -10,6 +10,7 @@
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)](https://github.com/paesrafael/)
 [![React Native](https://img.shields.io/badge/ReactNative-20232A?style=for-the-badge&logo=react)](https://github.com/paesrafael/)
 [![Angular](https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=angular)](https://github.com/paesrafael/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/paesrafael/)
 [![NodeJS](https://img.shields.io/badge/NodeJS-333333?style=for-the-badge&logo=Node.js)](https://github.com/paesrafael/)
 
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paesrafael&layout=compact" /></a>
