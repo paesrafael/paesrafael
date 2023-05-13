@@ -8,7 +8,7 @@
 
 ## :rocket: Principais Skills
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)](https://github.com/paesrafael/)
-[![React Native](https://img.shields.io/badge/ReactNative-20232A?style=for-the-badge&logo=react)](https://github.com/paesrafael/)
+[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)](https://github.com/paesrafael/)
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://github.com/paesrafael/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/paesrafael/)
 [![NodeJS](https://img.shields.io/badge/NodeJS-43853D?style=for-the-badge&logo=Node.js&logoColor=white)](https://github.com/paesrafael/)
