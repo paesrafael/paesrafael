@@ -54,8 +54,6 @@ Conhecimento nas Techs/CMS citadas acima, entre outras:
 
 <a href="#"><img width="150" height="150" src="https://assets.pointec.dev/image/octocat-github-paesrafael.gif" /></a>
 
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=paesrafael&show_icons=true" /></a>
-
 ## Template POINTEC do React Native
 Você conhece o Template do React Native da POINTEC?<br>
 Da uma olhada no [PROJETO](https://github.com/paesrafael/react-native-template-pointec-basic), esta muito legal.<br>
