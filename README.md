@@ -13,8 +13,6 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/paesrafael/)
 [![NodeJS](https://img.shields.io/badge/NodeJS-43853D?style=for-the-badge&logo=Node.js&logoColor=white)](https://github.com/paesrafael/)
 
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paesrafael&layout=compact" /></a>
-
 ## Linguagens e Tecnologias
 <a href="#"><img align="left" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></a>
 <a href="#"><img align="left" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
