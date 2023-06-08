@@ -6,6 +6,8 @@
 # :man: :woman: Fala DEV :coffee:
 :boy: Sou o Rafael :octocat:, atualmente trabalho como Frontend :man_technologist: na [POINTEC](https://pointec.dev/).
 
+### Meu site pessoal [www.rafaelpaes.dev](https://rafaelpaes.dev)
+
 ## :rocket: Principais Skills
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)](https://github.com/paesrafael/)
 [![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)](https://github.com/paesrafael/)
